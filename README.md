@@ -33,9 +33,7 @@
 <br/>
 <br/>
 
- <a href="https://github.com/pk-014">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt=""width = "90%" src="https://github-readme-streak-stats.herokuapp.com/?user=pk-014&theme=black-ice&=true&stroke=0000&background=060A0CD0"/>
-    </a>
+ 
     </p>
 <p>
 
