@@ -33,13 +33,13 @@
 <br/>
 <br/>
 
- <a href="https://github.com/Mahnoor-Rana">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mahnoor Rana's streak"width = "90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahnoor-Rana&theme=black-ice&=true&stroke=0000&background=060A0CD0"/>
+ <a href="https://github.com/pk-014">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt=""width = "90%" src="https://github-readme-streak-stats.herokuapp.com/?user=pk-014&theme=black-ice&=true&stroke=0000&background=060A0CD0"/>
     </a>
     </p>
 <p>
 
-<a href="https://github.com/Mahnoor-Rana/github-readme-activity-graph"><img width="90%" alt="Mahnoor Rana's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mahnoor-Rana&&theme=xcode" /></a>
+<a href="https://github.com/pk-014/github-readme-activity-graph"><img width="90%" alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pk-014&&theme=xcode" /></a>
 </p>
 
 <br/>
