@@ -34,11 +34,8 @@
 <br/>
 
  
-    </p>
-<p>
+ 
 
-<a href="https://github.com/pk-014/github-readme-activity-graph"><img width="90%" alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pk-014&&theme=xcode" /></a>
-</p>
 
 <br/>
 <br/>
